@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AtmoGraph: Supply Chain Ripple Effect Predictor
 
 Starter scaffold matching the Week 1–2 architecture from the project brief.
@@ -36,3 +37,6 @@ npm start
 - Add fuzzy entity-to-node matching (rapidfuzz) in `nlp_pipeline.py`
 - Add a timeline slider (30/60/90 days) driven by repeated GNN inference
 - Dockerize both services and wire up CI/CD
+=======
+# AtmoGraph
+>>>>>>> 88bc38999e737eb99c5a27404a4a685c4af31507
