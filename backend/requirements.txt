@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+neo4j==5.24.0
+spacy==3.7.5
+pydantic==2.9.2
+torch==2.4.1
+torch-geometric==2.6.1
+websockets==13.1
+
+# After install, download the spaCy model:
+# python -m spacy download en_core_web_sm
